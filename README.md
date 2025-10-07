@@ -1,7 +1,9 @@
-# Deep_learning_Skincancerlib
+# Skin Cancer Detection using Images
+
 
 
 
 
 ![](skinlib.png)
+
 
